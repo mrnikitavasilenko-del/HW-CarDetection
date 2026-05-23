@@ -16,8 +16,10 @@ env/
 *.avi
 *.mkv
 
-# Датасет с изображениями (слишком большой, ~340MB)
-Vehicle-Detection/Dataset/
+# Датасет: только изображения исключены (~340MB), разметка и мета-файлы включены
+Vehicle-Detection/Dataset/images/
+Vehicle-Detection/Dataset/labels/*.cache
+Vehicle-Detection/Dataset/labels/*.npy
 
 # Временные файлы
 *.log
