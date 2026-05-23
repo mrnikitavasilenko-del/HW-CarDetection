@@ -1,4 +1,4 @@
-path: C:/Users/Nikita Vasilenko/Desktop/Ucheba/CV/HW-CarDetection/Vehicle-Detection/Dataset
+path: C:/Users/Nikita/Desktop/MAGA/Comp_vision/HW-CarDetection/Vehicle-Detection/Dataset
 
 train: images/train
 val: images/val
